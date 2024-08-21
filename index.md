@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome to my site! Thanks for visiting!
+How is it going?
 
 
 #### Here are some example pages:
